@@ -1,5 +1,5 @@
 The only server used in this is an MQTT server. For local application "mosca" server that runs inside node red is sufficient.
-This can be installed from the manage pallet>> install nodes.
+This can be installed from the " manage pallet>> install nodes" .
 
 Instead use this to install from the terminal: npm install node-red-contrib-mqtt-broker
 
